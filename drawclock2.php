@@ -3,7 +3,7 @@
 <?php
 $pi = 3.14159265;
 
-//  Code to draw clockface here
+//  Code to draw clockface here.  Draws a one off clockface using the system time
 
 $size=200;
 
